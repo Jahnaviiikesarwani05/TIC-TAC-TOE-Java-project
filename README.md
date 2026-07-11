@@ -11,21 +11,21 @@ TIC-TAC-TOE
 💬 Displays winner and draw messages using dialog boxes
 
 🛠️ Technologies Used
-Java
-Java AWT (Abstract Window Toolkit)
-Event Handling (ActionListener & WindowAdapter)
-Object-Oriented Programming (OOP)
-GridLayout for the game board
+#Java
+#Java AWT (Abstract Window Toolkit)
+#Event Handling (ActionListener & WindowAdapter)
+#Object-Oriented Programming (OOP)
+#GridLayout for the game board
 
 ▶️ How to Run
-Prerequisites
-Java JDK 8 or later installed.
-Steps
-Clone or download this repository.
-Open the project in any Java IDE (VS Code, Eclipse, IntelliJ IDEA, or NetBeans).
-Compile the source file:
-javac TicTacToe.java
-Run the program:
-java TicTacToe
-The Tic Tac Toe game window will open, and two players can start playing.
+#Prerequisites
+#Java JDK 8 or later installed.
+#Steps
+##Clone or download this repository.
+#Open the project in any Java IDE (VS Code, Eclipse, IntelliJ IDEA, or NetBeans).
+#Compile the source file:
+#javac TicTacToe.java
+#Run the program:
+#java TicTacToe
+#The Tic Tac Toe game window will open, and two players can start playing.
 
