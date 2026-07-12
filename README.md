@@ -1,4 +1,4 @@
-TIC-TAC-TOE
+TIC-TAC-TOE project
 ✨ Features
 🎮 Two-player Tic Tac Toe gameplay
 🖥️ Simple graphical user interface using Java AWT
@@ -27,5 +27,5 @@ TIC-TAC-TOE
 #javac TicTacToe.java
 #Run the program:
 #java TicTacToe
-#The Tic Tac Toe game window will open, and two players can start playing.
+#The Tic Tac Toe game window will open, and two players can start play
 
