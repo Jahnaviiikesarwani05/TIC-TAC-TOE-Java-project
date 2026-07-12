@@ -10,7 +10,7 @@ TIC-TAC-TOE project
 🖱️ Prevents players from selecting an already occupied cell
 💬 Displays winner and draw messages using dialog boxes
 
-🛠️ Technologies Used
+🛠️ Technologies Used in This project
 #Java
 #Java AWT (Abstract Window Toolkit)
 #Event Handling (ActionListener & WindowAdapter)
