@@ -19,6 +19,7 @@ TIC-TAC-TOE project
 #GridLayout for the game board
 
 ▶️ How to Run
+
 #Prerequisites
 #Java JDK 8 or later installed.
 #Steps
